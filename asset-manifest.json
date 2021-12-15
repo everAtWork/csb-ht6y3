@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://everatwork.github.io/csb-ht6y3/static/css/main.de48b10d.chunk.css",
+    "main.js": "https://everatwork.github.io/csb-ht6y3/static/js/main.87f2730d.chunk.js",
+    "main.js.map": "https://everatwork.github.io/csb-ht6y3/static/js/main.87f2730d.chunk.js.map",
+    "runtime-main.js": "https://everatwork.github.io/csb-ht6y3/static/js/runtime-main.6a7d7429.js",
+    "runtime-main.js.map": "https://everatwork.github.io/csb-ht6y3/static/js/runtime-main.6a7d7429.js.map",
+    "static/js/2.83783715.chunk.js": "https://everatwork.github.io/csb-ht6y3/static/js/2.83783715.chunk.js",
+    "static/js/2.83783715.chunk.js.map": "https://everatwork.github.io/csb-ht6y3/static/js/2.83783715.chunk.js.map",
+    "index.html": "https://everatwork.github.io/csb-ht6y3/index.html",
+    "static/css/main.de48b10d.chunk.css.map": "https://everatwork.github.io/csb-ht6y3/static/css/main.de48b10d.chunk.css.map",
+    "static/js/2.83783715.chunk.js.LICENSE.txt": "https://everatwork.github.io/csb-ht6y3/static/js/2.83783715.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a7d7429.js",
+    "static/js/2.83783715.chunk.js",
+    "static/css/main.de48b10d.chunk.css",
+    "static/js/main.87f2730d.chunk.js"
+  ]
+}

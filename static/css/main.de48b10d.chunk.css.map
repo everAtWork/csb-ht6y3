@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.scss"],"names":[],"mappings":"AAAA,KACE,iDAAwD,CACxD,8CAAkD,CACnD,KAEC,iBAAkB","file":"main.de48b10d.chunk.css","sourcesContent":["body {\n  background: linear-gradient(-75deg, navajowhite, tomato);\n  font-family: Blinker, Arial, Helvetica, sans-serif;\n}\n.App {\n  text-align: center;\n}\n"]}
